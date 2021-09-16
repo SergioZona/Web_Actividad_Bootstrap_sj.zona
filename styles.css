@@ -1,0 +1,29 @@
+#banner {
+    background-color: #60FDC1;
+}
+
+#left_menu {
+    background-color: #56E385;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#top_menu {
+    background-color: #6CFA72;
+}
+
+#content {
+    padding:100px;
+    background-color: #7FE356;
+}
+
+#footer {
+    background-color: #60FDC1;
+}
+
+#imagen {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
